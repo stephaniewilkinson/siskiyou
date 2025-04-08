@@ -25,9 +25,11 @@ struct ContentView: View {
                 .onDelete(perform: deleteItems)
             }
             .toolbar {
+                #if !os(macOS)
                 ToolbarItem(placement: .navigationBarTrailing) {
                     EditButton()
                 }
+                #endif
                 ToolbarItem {
                     Button(action: addItem) {
                         Label("Add Item", systemImage: "plus")

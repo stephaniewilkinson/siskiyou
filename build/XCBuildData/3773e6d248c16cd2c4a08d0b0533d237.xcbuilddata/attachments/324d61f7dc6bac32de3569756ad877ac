@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/steph/Repos/siskiyou/build/siskiyou.build/Release/siskiyouTests.build/Objects-normal/x86_64/siskiyouTests-master.swiftconstvalues",
+    "dependencies" : "/Users/steph/Repos/siskiyou/build/siskiyou.build/Release/siskiyouTests.build/Objects-normal/x86_64/siskiyouTests-master.d",
+    "diagnostics" : "/Users/steph/Repos/siskiyou/build/siskiyou.build/Release/siskiyouTests.build/Objects-normal/x86_64/siskiyouTests-master.dia",
+    "emit-module-dependencies" : "/Users/steph/Repos/siskiyou/build/siskiyou.build/Release/siskiyouTests.build/Objects-normal/x86_64/siskiyouTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/steph/Repos/siskiyou/build/siskiyou.build/Release/siskiyouTests.build/Objects-normal/x86_64/siskiyouTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/steph/Repos/siskiyou/build/siskiyou.build/Release/siskiyouTests.build/Objects-normal/x86_64/siskiyouTests-master.swiftdeps"
+  },
+  "/Users/steph/Repos/siskiyou/siskiyouTests/siskiyouTests.swift" : {
+    "index-unit-output-path" : "/siskiyou.build/Release/siskiyouTests.build/Objects-normal/x86_64/siskiyouTests.o",
+    "llvm-bc" : "/Users/steph/Repos/siskiyou/build/siskiyou.build/Release/siskiyouTests.build/Objects-normal/x86_64/siskiyouTests.bc",
+    "object" : "/Users/steph/Repos/siskiyou/build/siskiyou.build/Release/siskiyouTests.build/Objects-normal/x86_64/siskiyouTests.o"
+  }
+}

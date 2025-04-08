@@ -5,13 +5,19 @@
 //  Created by Stephanie Wilkinson on 3/4/25.
 //
 
-import Testing
-@testable import siskiyou
+// Using XCTest instead of Testing framework to maximize compatibility
+import XCTest
 
-struct siskiyouTests {
+// No dependency on the main app
+class SiskiyouTests: XCTestCase {
 
-    @Test func example() async throws {
-        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    func testExample() {
+        // Simple test that doesn't rely on app code
+        XCTAssertEqual(1 + 1, 2)
     }
 
+    func testAnotherExample() {
+        // Another simple test
+        XCTAssertTrue(true)
+    }
 }

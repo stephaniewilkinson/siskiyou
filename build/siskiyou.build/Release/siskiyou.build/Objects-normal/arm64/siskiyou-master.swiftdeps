@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "857dc4d33b63d22cf56c8ca1a078bcc14bfeed528187064b5cf92d0e7f5ffda9"
+build_start_time: [1744041031, 833122000]
+build_end_time: [1744041034, 775423000]
+inputs:
+  "/Users/steph/Repos/siskiyou/build/siskiyou.build/Release/siskiyou.build/DerivedSources/GeneratedAssetSymbols.swift": !dirty [1744041031, 46774655]
+  "/Users/steph/Repos/siskiyou/siskiyou/ContentView.swift": !dirty [1744039902, 9982290]
+  "/Users/steph/Repos/siskiyou/siskiyou/Item.swift": !dirty [1744039902, 10138998]
+  "/Users/steph/Repos/siskiyou/siskiyou/siskiyouApp.swift": !dirty [1744039902, 10451665]

@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/steph/Repos/siskiyou/build/Release-iphoneos/siskiyou.app/siskiyou'
+relocations:     []
+...

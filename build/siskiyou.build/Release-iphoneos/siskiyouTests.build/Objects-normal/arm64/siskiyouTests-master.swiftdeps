@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "34d077009bdf6bfa45927a731e192fc97fe495c6db01854933aa31940523f42c"
+build_start_time: [1744041143, 58722000]
+build_end_time: [1744041143, 147832000]
+inputs:
+  "/Users/steph/Repos/siskiyou/siskiyouTests/siskiyouTests.swift": !dirty [1744039902, 10562623]
